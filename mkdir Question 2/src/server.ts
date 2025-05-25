@@ -1,5 +1,5 @@
 import express from 'express';
-import { NumberService } from './services/NumberService';
+import { NumberService } from '../services/NumberService';
 
 const app = express();
 const port = 9876;
